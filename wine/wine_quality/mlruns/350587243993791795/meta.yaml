@@ -1,0 +1,6 @@
+artifact_location: file:///home/dvazquez/Test_wine_quality/wine/wine_quality/mlruns/350587243993791795
+creation_time: 1719401162226
+experiment_id: '350587243993791795'
+last_update_time: 1719401162226
+lifecycle_stage: active
+name: Wine Quality Prediction

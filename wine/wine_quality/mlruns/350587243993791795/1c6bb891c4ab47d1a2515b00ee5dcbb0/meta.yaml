@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dvazquez/Test_wine_quality/wine/wine_quality/mlruns/350587243993791795/1c6bb891c4ab47d1a2515b00ee5dcbb0/artifacts
+end_time: 1719401591698
+entry_point_name: ''
+experiment_id: '350587243993791795'
+lifecycle_stage: active
+run_id: 1c6bb891c4ab47d1a2515b00ee5dcbb0
+run_name: receptive-grouse-910
+run_uuid: 1c6bb891c4ab47d1a2515b00ee5dcbb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719401589454
+status: 3
+tags: []
+user_id: dvazquez
